@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4372" started-at="2020-08-28T09:40:50 IST" finished-at="2020-08-28T09:40:54 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4372" started-at="2020-08-28T09:40:50 IST" finished-at="2020-08-28T09:40:54 IST">
+      <class name="RestfulBookingAPIAutomation.RestfulBookingAPIAutomation.AppTest">
+        <test-method status="PASS" signature="createBooking()[pri:1, instance:RestfulBookingAPIAutomation.RestfulBookingAPIAutomation.AppTest@731a74c]" name="createBooking" duration-ms="2857" started-at="2020-08-28T09:40:50 IST" finished-at="2020-08-28T09:40:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createBooking -->
+        <test-method status="PASS" signature="getBooking()[pri:2, instance:RestfulBookingAPIAutomation.RestfulBookingAPIAutomation.AppTest@731a74c]" name="getBooking" duration-ms="701" started-at="2020-08-28T09:40:53 IST" finished-at="2020-08-28T09:40:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBooking -->
+        <test-method status="PASS" signature="getBookings()[pri:3, instance:RestfulBookingAPIAutomation.RestfulBookingAPIAutomation.AppTest@731a74c]" name="getBookings" duration-ms="774" started-at="2020-08-28T09:40:54 IST" finished-at="2020-08-28T09:40:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBookings -->
+      </class> <!-- RestfulBookingAPIAutomation.RestfulBookingAPIAutomation.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
